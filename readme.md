@@ -1,4 +1,4 @@
-![logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/banner.jpeg)
+![logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/logo.jpeg)
 <h1 align="center">Hi 👋, I'm Aditya Srivastav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
