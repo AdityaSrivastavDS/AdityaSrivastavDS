@@ -10,8 +10,6 @@
 
 - 💬 Ask me about **Data Science**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vsdfsTtwsWiok6elfdCMgi3FV4b6S4tz/view?usp=drive_link](https://drive.google.com/file/d/1VzMHONwZBhly7UWC1eyQ9fVonJjhvlYb/view?usp=drive_link)
-
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
