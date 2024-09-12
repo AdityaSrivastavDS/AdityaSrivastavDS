@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **adityathestar2006@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1m53hbXFRtlVkUv1inigQC9TCDDfpNbgm/view?usp=sharing](https://drive.google.com/file/d/1m53hbXFRtlVkUv1inigQC9TCDDfpNbgm/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1k1je483e3xUZbHDjuaT7-s6ixgmCc_Aw/view?usp=sharing](https://drive.google.com/file/d/1k1je483e3xUZbHDjuaT7-s6ixgmCc_Aw/view?usp=sharing)
 
 - ⚡ Fun fact **🌟I debug my code with a cup of coffee in hand because, let's face it, coffee understands my code better than I do sometimes!**
 
