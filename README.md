@@ -23,7 +23,6 @@
 
 - 💬 Ask me about **Data Science | Web Development | Software Engineering**
 
-- 📫 How to reach me **adityathestar2006@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1niStvLzL_hhh5_xMHavULQqWKn0fDuqt/view?usp=sharing](https://drive.google.com/file/d/1niStvLzL_hhh5_xMHavULQqWKn0fDuqt/view?usp=sharing)
 
