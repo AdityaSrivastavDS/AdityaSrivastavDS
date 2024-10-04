@@ -27,6 +27,8 @@
 
 - ⚡ Fun fact **🌟I debug my code with a cup of coffee in hand because, let's face it, coffee understands my code better than I do sometimes!**
 
+[![Holopin profile](https://holopin.me/adityathestar)](https://holopin.io/@adityathestar)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/adityasrivastavds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="adityasrivastavds" height="30" width="40" /></a>
