@@ -10,6 +10,7 @@
     style="width: 500px; height: 500px;">
   </model-viewer>
 </center>
+<script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaSrivastavDS&label=Profile%20views&color=0e75b6&style=flat" alt="adityasrivastavds" /> </p>
 
