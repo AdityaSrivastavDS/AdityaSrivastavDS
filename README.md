@@ -5,6 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaSrivastavDS&label=Profile%20views&color=0e75b6&style=flat" alt="adityasrivastavds" /> </p>
 
+<div align="right">
+  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/robo.png" alt="Waving Robot GIF" width="200">
+</div>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaSrivastavDS" alt="adityasrivastavds" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/Aditya_DSAI" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya_DSAI?logo=twitter&style=for-the-badge" alt="aditya_dsai" /></a> </p>
