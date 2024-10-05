@@ -61,5 +61,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&theme=radical" alt="adityasrivastavds" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdityaSrivastavDS&layout=compact&show icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdityaSrivastavDS&layout=compact&showicons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
