@@ -59,5 +59,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&show_icons=true&theme=radical)
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&" alt="adityasrivastavds" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&theme=radical" alt="adityasrivastavds" /></p>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AdityaSrivastavDS&layout=compact&show icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
