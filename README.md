@@ -3,6 +3,14 @@
 
 <img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/adi1.gif" align = "center">
 
+<!-- Embed your 3D model using <model-viewer> -->
+<center>
+  <model-viewer src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/phoenix_bird.glb" alt="Aditya's 3D Model" 
+    camera-controls autoplay ar 
+    style="width: 500px; height: 500px;">
+  </model-viewer>
+</center>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AdityaSrivastavDS&label=Profile%20views&color=0e75b6&style=flat" alt="adityasrivastavds" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdityaSrivastavDS" alt="adityasrivastavds" /></a> </p>
