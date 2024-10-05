@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/Aditya_DSAI" target="blank"><img src="https://img.shields.io/twitter/follow/Aditya_DSAI?logo=twitter&style=for-the-badge" alt="aditya_dsai" /></a> </p>
 
-<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/robo.png" alt="Waving Robot GIF" align="right" width="400" style="float: right; margin-left: 20px; margin-top: 20px;">
+<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/robo.png" alt="Waving Robot GIF" align="right" width="600" style="float: right; margin-left: 20px; margin-top: 20px;">
 
 - 🔭 I’m currently working on **Voice Assistant**
 
