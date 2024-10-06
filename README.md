@@ -77,6 +77,15 @@
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
 </a>
+<a href="https://www.ibm.com/analytics/spss-statistics-software" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" alt="IBM SPSS Modeler" width="40" height="40"/> 
+</a>
+<a href="https://www.office.com" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft Office" width="40" height="40"/> 
+</a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
+</a>
 </p>
 
 
