@@ -5,6 +5,9 @@
 
 [![](https://visitcount.itsvg.in/api?id=AdityaSrivastavDS&icon=8&color=5)](https://visitcount.itsvg.in)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AdityaSrivastavDS&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
