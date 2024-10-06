@@ -81,10 +81,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spss/spss-original.svg" alt="IBM SPSS Modeler" width="40" height="40"/> 
 </a>
 <a href="https://www.office.com" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft Office" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=37619&format=png&color=000000" alt="Microsoft Office" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://iconscout.com/icons/microsoft-excel" alt="Excel" width="40" height="40"/> 
+  <img src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000" alt="Excel" width="40" height="40"/> 
 </a>
 </p>
 
