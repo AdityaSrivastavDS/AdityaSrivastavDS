@@ -13,7 +13,6 @@
 
 <div style="text-align: right;">
   <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/durga_maa.png" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
-  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/phoenix.gif" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
   <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/mew.gif" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
 </div>
 
