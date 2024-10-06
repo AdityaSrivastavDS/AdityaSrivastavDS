@@ -84,7 +84,7 @@
   <img src="https://www.vectorlogo.zone/logos/microsoft_office/microsoft_office-icon.svg" alt="Microsoft Office" width="40" height="40"/> 
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/microsoft_excel/microsoft_excel-icon.svg" alt="Excel" width="40" height="40"/> 
+  <img src="https://iconscout.com/icons/microsoft-excel" alt="Excel" width="40" height="40"/> 
 </a>
 </p>
 
