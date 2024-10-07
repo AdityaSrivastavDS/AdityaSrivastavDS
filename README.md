@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/adi1.gif" align = "center">
+<img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/adi1.gif" align = "center">
 
 [![](https://visitcount.itsvg.in/api?id=AdityaSrivastavDS&icon=8&color=5)](https://visitcount.itsvg.in)
 
@@ -15,10 +15,10 @@
 
 
 <div style="text-align: right;">
-  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/durga_maa.png" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/durga_maa.png" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
 </div>
 
-<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/robo.png" alt="Waving Robot GIF" align="right" width="600" style="float: right; margin-left: 20px; margin-top: 20px;">
+<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/robo.png" alt="Waving Robot GIF" align="right" width="600" style="float: right; margin-left: 20px; margin-top: 20px;">
 
 
 - 🔭 I’m currently working on **Voice Assistant**
@@ -94,12 +94,12 @@
 
 | Achievement | Description |
 |-------------|------------ |
-| ![Azure AZ-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/az.svg) | Accomplished Microsoft Azure (AZ-900) Fundamentals certification. |
-| ![Azure AI-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/AI-900%2BBadge.svg) | Accomplished Microsoft Azure (AI-900) Fundamentals certification. |  |
+| ![Azure AZ-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/az.svg) | Accomplished Microsoft Azure (AZ-900) Fundamentals certification. |
+| ![Azure AI-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/AI-900%2BBadge.svg) | Accomplished Microsoft Azure (AI-900) Fundamentals certification. |  |
 | ![Ambassador Program](https://img.icons8.com/?size=100&id=22989&format=png&color=000000) | Attained Beta Milestone in the Microsoft Ambassador Program, ranking among the top 20 students globally. |  |
-| ![Hackathon](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/mlh.svg) | Secured Runner-Up position in Major League Hacking AI/ML Hackathon among 10,000 participants. |  |
-| ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
-| ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/peroptyx.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
+| ![Hackathon](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mlh.svg) | Secured Runner-Up position in Major League Hacking AI/ML Hackathon among 10,000 participants. |  |
+| ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
+| ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/peroptyx.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
 
 
 # 📊 GitHub Stats:
