@@ -15,7 +15,7 @@
 
 
 <div style="text-align: right;">
-  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/durga_maa2.png" alt="New Image" width="400" style="margin-right: 20px; margin-bottom: 20px;">
+  <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/durga_maa2.png" alt="New Image" width="300" style="margin-right: 20px; margin-bottom: 20px;">
 </div>
 
 <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/fallen.png" alt="Waving Robot GIF" align="right" width="600" style="float: right; margin-left: 20px; margin-top: 20px;">
