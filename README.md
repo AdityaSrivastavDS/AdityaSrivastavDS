@@ -103,7 +103,7 @@
 | ![Ambassador Program](https://img.icons8.com/?size=100&id=22989&format=png&color=000000) | Attained Beta Milestone in the Microsoft Ambassador Program, ranking among the top 20 students globally. |  |
 | ![Hackathon](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mlh.svg) | Secured Runner-Up position in Major League Hacking AI/ML Hackathon among 10,000 participants. |  |
 | ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
-| ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/peroptyx.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
+| ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/MVP.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
