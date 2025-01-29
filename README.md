@@ -104,7 +104,7 @@
 | ![Hackathon](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mlh.svg) | Secured Runner-Up position in Major League Hacking AI/ML Hackathon among 10,000 participants. |  |
 | ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
 | ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/peroptyx.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
-| ![MVP Award](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/MVP.svg) | Achieved Microsoft Most Valuable Professional Award in field of AI. |  |
+| ![MVP Award](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/MVP.svg) | Achieved Microsoft Most Valuable Professional Award in field of AI. |  
 
 
 # 📊 GitHub Stats:
