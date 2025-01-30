@@ -105,7 +105,7 @@
 | ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
 | ![Employer of the Month](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/peroptyx.svg) | Achieved Best Employer of the Month award at Peroptyx as a Data Analyst. |  |
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="100"> | Nominated for Microsoft MVP Award 2024. | |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/MVP.svg" width="100"> | Awarded Microsoft MVP Award 2023 for contribution in field of AI. | |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded Microsoft MVP Award 2023 for contribution in field of AI. | |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
