@@ -98,8 +98,8 @@
 
 | Achievement | Description |
 |-------------|------------ |
-| ![Azure AZ-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/az.svg) | Accomplished Microsoft Azure (AZ-900) Fundamentals certification. |
-| ![Azure AI-900 Logo](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/AI-900%2BBadge.svg) | Accomplished Microsoft Azure (AI-900) Fundamentals certification. |  |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/az.svg" width="160"> | Accomplished Microsoft Azure (AZ-900) Fundamentals certification. |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/AI-900%2BBadge.svg" width="160"> | Accomplished Microsoft Azure (AI-900) Fundamentals certification. |  |
 | ![Ambassador Program](https://img.icons8.com/?size=100&id=22989&format=png&color=000000) | Attained Beta Milestone in the Microsoft Ambassador Program, ranking among the top 20 students globally. |  |
 | ![Hackathon](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mlh.svg) | Secured Runner-Up position in Major League Hacking AI/ML Hackathon among 10,000 participants. |  |
 | ![Mahir Insight Institute](https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mii.jpg) | Founded Mahir Insight Institute, a startup providing comprehensive study materials to students. |  |
