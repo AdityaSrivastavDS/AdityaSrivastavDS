@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
-<img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/bg.gif" align = "center">
+<img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/bg.gif" align = "center" width = "300">
 
 [![](https://visitcount.itsvg.in/api?id=AdityaSrivastavDS&icon=8&color=5)](https://visitcount.itsvg.in)
 
