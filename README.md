@@ -18,7 +18,7 @@
   <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/durga_maa2.png" alt="New Image" width="400" style="margin-right: 20px; margin-bottom: 20px;">
 </div>
 
-<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/Hela(1).gif" alt="Waving Robot GIF" align="right" width="100" style="float: right; margin-left: 20px; margin-top: 20px;">
+<img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/hela_magic.png" alt="Waving Robot GIF" align="right" width="550" style="float: right; margin-left: 20px; margin-top: 20px;">
 
 
 - 🔭 I’m currently working on **Voice Assistant**
