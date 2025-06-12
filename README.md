@@ -15,9 +15,9 @@
 
 
 
-- 🔭 I’m currently working on **Voice Assistant**
+- 🔭 I’m currently working on **Driver Unwanted Pose Detection and Feedback System**
 
-- 🌱 I’m currently learning **Time Series Analysis**
+- 🌱 I’m currently learning **CNN**
 
 - 👯 I’m looking to collaborate on **Data Science Journey**
 
@@ -27,7 +27,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/adityasrivastavds](https://dev.to/adityasrivastavds)
 
-- 💬 Ask me about **Data Science | Web Development | Software Engineering**
+- 💬 Ask me about **Data Science | Web Development | Software Engineering | Data Analytics**
 
 
 
