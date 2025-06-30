@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Srivastav</h1>
-<h3 align="center">A passionate Data Scientist and Analyst from India</h3>
+<h3 align="center">A aspiring Data Analyst & Scientist from India</h3>
 
 <img src = "https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/cd.gif" align = "center" width = "2500" height = "200">
 
