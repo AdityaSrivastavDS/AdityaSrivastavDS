@@ -113,7 +113,7 @@
 | Achievement | Description |
 |-------------|------------ |
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/badge.jpg" width="200"> | 5 star in Problem Solving, Java, Python and 3 star in SQL at HackerRank | |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | Nominated for Microsoft MVP Award 2024. | |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | Nominated for Microsoft MVP Award 2025. | |
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded Microsoft MVP Award 2023 for contribution in field of AI. | |
 
 ---
