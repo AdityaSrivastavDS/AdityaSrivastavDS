@@ -98,15 +98,15 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🌐 Connect with Me!
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://adityasrivastav729.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasrivastav729/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/adityas_729)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/adityasrivastav729/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://auth.geeksforgeeks.org/user/adityasrivastav729/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/adityasrivastav729)
-[![AWS Blog](https://img.shields.io/badge/AWS%20Community%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white)](https://community.aws/blogs/author/adityasrivastav729)
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://aditya-srivastav-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasrivastav1/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aditya_DSAI)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_DSAI/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://www.geeksforgeeks.org/user/adityathex00q/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aditya_ds)
+[![AWS Blog](https://img.shields.io/badge/AWS%20Community%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white)](https://community.aws/@adityads)
 
 ---
 
