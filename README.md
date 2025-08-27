@@ -21,6 +21,20 @@
 
 ---
 
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://aditya-srivastav-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adityasrivastav1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Aditya_DSAI"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Aditya_DSAI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/user/adityathex00q/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/aditya_ds"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://community.aws/@adityads"><img src="https://img.shields.io/badge/AWS%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+</p>
+
+---
+
 ### 💻 Tech Stack
 
 #### 🧠 Languages & Frameworks
@@ -111,20 +125,6 @@
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/badge.jpg" width="200"> | **5⭐ in Problem Solving, Java, Python** and **3⭐ in SQL** at HackerRank |
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | **Nominated** for *Microsoft MVP Award 2025* |
 | <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded *Microsoft MVP Award 2023* for AI contributions |
-
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://aditya-srivastav-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adityasrivastav1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Aditya_DSAI"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://leetcode.com/u/Aditya_DSAI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/adityathex00q/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/aditya_ds"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://community.aws/@adityads"><img src="https://img.shields.io/badge/AWS%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-</p>
 
 ---
 
