@@ -1,19 +1,23 @@
-<h1 align="center">Hi 👋, I'm Aditya Srivastav</h1>
-<h3 align="center">🚀 Recent BCA Data Science and AI | Aspiring Data & Product Analyst & Scientist | Tech Blogger | Fast Learner</h3>
+<!-- Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8E2DE2&height=200&section=header&text=Hi%20👋,%20I'm%20Aditya%20Srivastav&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
+</p>
+
+<h3 align="center">🚀 Recent BCA Data Science & AI Graduate | Aspiring Data & Product Analyst | Tech Blogger | Fast Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=440&lines=Exploring+AI+%7C+Product+%7C+Data;Open+to+exciting+opportunities!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4D00&center=true&vCenter=true&width=500&lines=Exploring+AI+%7C+Product+%7C+Data;Open+to+exciting+opportunities!" />
 </p>
 
 ---
 
-### 💡 About Me
-- 🎓 Recent graduate in BCA specializing in **Data Science & AI**  
-- 💼 Previously interned at **HP**, **Headstarter AI**, and **Morgan Stanley**
-- 🧠 Transitioned from **Biology to Tech** through self-learning  
-- 🥇 State rank holder in national Olympiads  
-- ✍️ Tech Blogger & Community Contributor  
-- 🌱 Constantly learning **Data Analytics**, **ML**, and **Product Thinking**
+## 💡 About Me  
+- 🎓 Recent graduate in **BCA (Data Science & AI)**  
+- 💼 Previously interned at **HP**, **Headstarter AI**, and **Morgan Stanley**  
+- 🧠 Transitioned from **Biology → Tech** through self-learning  
+- 🥇 **State Rank Holder** in National Olympiads  
+- ✍️ **Tech Blogger** & Community Contributor  
+- 🌱 Exploring **Data Analytics | ML | Product Thinking**  
 
 ---
 
@@ -22,12 +26,10 @@
 #### 🧠 Languages & Frameworks
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=plastic&logo=ruby&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
 
 #### 🌐 Web & App Development
@@ -37,7 +39,6 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white)
 ![VueJS](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
 
@@ -93,41 +94,61 @@
 
 #### 🧩 Other Tools
 ![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
-![DotNet](https://img.shields.io/badge/dotnet-%235C2D91.svg?style=plastic&logo=dotnet&logoColor=white)
-
 
 ---
 
-### 🌐 Connect with Me!
+### 🌱 Currently Learning  
 
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white)](https://aditya-srivastav-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasrivastav1/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Aditya_DSAI)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_DSAI/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white)](https://www.geeksforgeeks.org/user/adityathex00q/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/aditya_ds)
-[![AWS Blog](https://img.shields.io/badge/AWS%20Community%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white)](https://community.aws/@adityads)
+![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logoColor=white)  
+![Qdrant](https://img.shields.io/badge/Qdrant-FF6F61?style=flat&logo=qdrant&logoColor=white)  
 
 ---
 
-| Achievement | Description |
-|-------------|------------ |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/badge.jpg" width="200"> | 5 star in Problem Solving, Java, Python and 3 star in SQL at HackerRank | |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | Nominated for Microsoft MVP Award 2025. | |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded Microsoft MVP Award 2023 for contribution in field of AI. | |
+## 🏆 Achievements  
+
+| Badge | Description |
+|-------|-------------|
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/badge.jpg" width="200"> | **5⭐ in Problem Solving, Java, Python** and **3⭐ in SQL** at HackerRank |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | **Nominated** for *Microsoft MVP Award 2025* |
+| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded *Microsoft MVP Award 2023* for AI contributions |
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&theme=ambient_gradient&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSrivastavDS&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🌐 Connect with Me  
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AdityaSrivastavDS&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://aditya-srivastav-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/adityasrivastav1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/Aditya_DSAI"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://leetcode.com/u/Aditya_DSAI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+  <a href="https://www.geeksforgeeks.org/user/adityathex00q/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white"></a>
+  <a href="https://www.hackerrank.com/profile/aditya_ds"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+  <a href="https://community.aws/@adityads"><img src="https://img.shields.io/badge/AWS%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
+</p>
 
 ---
 
+## 📊 GitHub Stats  
 
-_Thanks for stopping by!_ 😊 Feel free to connect or collaborate!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&theme=radical&hide_border=true" height="180" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSrivastavDS&theme=radical&hide_border=true&layout=compact" height="150" />
+</p>
+
+### 🔝 Top Contributed Repo  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=AdityaSrivastavDS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:F70000&height=120&section=footer" />
+</p>
+
+<p align="center">✨ Thanks for stopping by! ✨ <br/> Let’s connect and collaborate 🚀</p>
