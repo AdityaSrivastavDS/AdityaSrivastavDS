@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8E2DE2&height=200&section=header&text=Hi%20👋,%20I'm%20Aditya%20Srivastav&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Recent BCA Data Science & AI Graduate | Aspiring Data & Product Analyst | Vlogger | Fast Learner</h3>
+<h3 align="center">🚀 Recent BCA Data Science & AI Graduate | Aspiring Data & Product Analyst | Lifestyle Vlogger | Fast Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4D00&center=true&vCenter=true&width=500&lines=Exploring+AI+%7C+Product+%7C+Data;Open+to+exciting+opportunities!" />
@@ -16,7 +16,7 @@
 - 💼 Previously interned at **HP**, **Headstarter AI**, and **Morgan Stanley**  
 - 🧠 Transitioned from **Biology → Tech** through self-learning  
 - 🥇 **State Rank Holder** in National Olympiads  
-- ✍️ **Tech Blogger** & Community Contributor  
+- ✍️ **Lifestyle Blogger** & Community Contributor  
 - 🌱 Exploring **Data Analytics | ML | Product Thinking**  
 
 ---
