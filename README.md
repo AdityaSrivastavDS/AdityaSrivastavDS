@@ -3,21 +3,58 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8E2DE2&height=200&section=header&text=Hi%20👋,%20I'm%20Aditya%20Srivastav&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </p>
 
-<h3 align="center">🚀 Recent BCA Data Science & AI Graduate | Aspiring Data & Product Analyst | Lifestyle Vlogger | Fast Learner</h3>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4D00&center=true&vCenter=true&width=500&lines=Exploring+AI+%7C+Product+%7C+Data;Open+to+exciting+opportunities!" />
 </p>
 
 ---
 
-## 💡 About Me  
-- 🎓 Recent graduate in **BCA (Data Science & AI)**  
-- 💼 Previously interned at **HP**, **Headstarter AI**, and **Morgan Stanley**  
-- 🧠 Transitioned from **Biology → Tech** through self-learning  
-- 🥇 **State Rank Holder** in National Olympiads  
-- ✍️ **Lifestyle Blogger** & Community Contributor  
-- 🌱 Exploring **Data Analytics | ML | Product Thinking**  
+# 👨‍💼 About Me
+
+```yaml
+Name: Aditya Srivastav
+Education: BCA — Data Science & Artificial Intelligence
+By Profession: Solutions Consultant
+By Passion: Lifestyle Vlogger & Content Creator (AdityaLives)
+Focus Areas:
+  - Product Analytics
+  - Business Intelligence
+  - Strategy Consulting
+  - Product Management
+  - Data Analytics
+
+Mission:
+  Transform raw data into business decisions and strategic outcomes.
+```
+
+I enjoy solving business problems through a combination of:
+
+* 📈 Product Thinking
+* 📊 Analytics & BI
+* 🎯 KPI Design
+* 🧠 Decision Science
+* 🚀 AI Driven Automation
+* 💼 Consulting Frameworks
+
+My interest lies where:
+
+> Data informs decisions.
+> Products evolve through insights.
+> Strategy creates competitive advantage.
+
+---
+
+# ⚡ Core Competencies
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Product_Analytics-0EA5E9?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business_Intelligence-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Product_Strategy-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Consulting-3B82F6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Analytics-0284C7?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -132,20 +169,31 @@
 
 ---
 
-## 📊 GitHub Stats  
+# 🏆 GitHub Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaSrivastavDS&theme=radical&show_icons=true&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaSrivastavDS&theme=radical&hide_border=true" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSrivastavDS&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSrivastavDS&theme=radical&hide_border=true&layout=compact" height="150" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSrivastavDS&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaSrivastavDS&theme=tokyonight" />
 </p>
 
-### 🔝 Top Contributed Repo  
+---
+
+## 📊 Activity Graph
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=AdityaSrivastavDS&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSrivastavDS&theme=tokyo-night&hide_border=true&radius=16"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
