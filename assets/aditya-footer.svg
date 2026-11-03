@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 112" width="1200" height="112" role="img" aria-labelledby="footer-title footer-desc">
+  <title id="footer-title">Build with clarity. Deliver with purpose.</title>
+  <desc id="footer-desc">A minimal burgundy footer with a fine moving signal line and a soft rose accent.</desc>
+  <defs>
+    <linearGradient id="footer-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#10070C"/>
+      <stop offset="1" stop-color="#190B12"/>
+    </linearGradient>
+    <linearGradient id="footer-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#451126"/>
+      <stop offset="0.5" stop-color="#E5B5C7"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+    <filter id="footer-glow" x="-30%" y="-150%" width="160%" height="400%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="112" rx="18" fill="url(#footer-bg)"/>
+  <path d="M42 30H1158" stroke="#C77B9B" stroke-opacity="0.20" stroke-width="1"/>
+  <path d="M42 30H1158" stroke="url(#footer-line)" stroke-width="2" stroke-dasharray="110 1016" filter="url(#footer-glow)">
+    <animate attributeName="stroke-dashoffset" values="-1126;0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <circle cx="42" cy="30" r="3" fill="#E5B5C7"/>
+  <circle cx="1158" cy="30" r="3" fill="#C77B9B"/>
+  <text x="600" y="73" text-anchor="middle" fill="#F8F0F3" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="4">BUILD WITH CLARITY  ·  DELIVER WITH PURPOSE</text>
+  <rect x="1" y="1" width="1198" height="110" rx="17" fill="none" stroke="#C77B9B" stroke-opacity="0.22"/>
+</svg>
