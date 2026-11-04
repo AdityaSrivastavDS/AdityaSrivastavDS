@@ -1,206 +1,128 @@
-<!-- Profile Banner -->
+<div align="center">
+  <img src="assets/aditya-hero.svg" alt="Aditya Srivastav — Solutions Consultant | Data & Analytics | AI & Enterprise Data Management" width="100%">
+</div>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F70000,100:8E2DE2&height=200&section=header&text=Hi%20👋,%20I'm%20Aditya%20Srivastav&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
+  <a href="https://aditya-srivastav-portfolio.netlify.app/"><b>Portfolio</b></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/adityasrivastav1/"><b>LinkedIn</b></a> &nbsp;·&nbsp;
+  <a href="https://community.aws/@adityads"><b>AWS Community</b></a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Aditya_DSAI/"><b>LeetCode</b></a> &nbsp;·&nbsp;
+  <a href="https://www.hackerrank.com/profile/aditya_ds"><b>HackerRank</b></a>
+</p>
+
+<img src="assets/sec-about.svg" alt="The short version" width="100%">
+
+I work where **enterprise data meets decisions**. As a Solutions Consultant at **Prospecta Software**, my days go into SAP master data, enterprise data migration and the unglamorous, high-stakes job of turning a business requirement into a data solution that holds up in production. My background is analytics, so I tend to ask one question before I build anything: *what decision is this number supposed to change?*
+
+I hold a **BCA in Data Science and Artificial Intelligence** from Babu Banarasi Das University, Lucknow, and I have kept my engineering hands warm along the way: computer vision, predictive modelling, dashboards and a lot of competitive programming.
+
+**What I do**
+
+- **Enterprise data management.** SAP master data, enterprise data migration and requirements analysis, so the data a business runs on is something it can trust.
+- **Analytics and business intelligence.** KPI design and Power BI dashboards that connect data to the decision someone actually has to make.
+- **Applied AI.** Machine learning and computer vision projects, plus ongoing work with LLM tooling.
+
+**Beyond the day job.** I'm an **AWS Community Builder** (AI Engineering), I write for the AWS Community, I'm a former Microsoft ambassador and the founder of **Mahir Insight Institute**. Off the clock I make lifestyle content as *AdityaLives*.
+
+> Data informs decisions. Products evolve through insights. Strategy creates competitive advantage.
+
+<img src="assets/sec-graph.svg" alt="Where I operate" width="100%">
+
+<img src="assets/identity-graph.svg" alt="Network graph connecting Aditya to Prospecta Software, internships at HP, Morgan Stanley and Headstarter AI, AWS Community Builder, Microsoft, Mahir Insight Institute, BBD University, HackerRank and current learning" width="100%">
+
+| | |
+|---|---|
+| **AWS Community Builder** | AI Engineering track |
+| **Microsoft** | Former ambassador · Microsoft MVP Award 2023 for AI contributions · nominated for the 2025 award |
+| **HackerRank** | 5 stars in Problem Solving, Java and Python · 3 stars in SQL |
+
+<img src="assets/sec-approach.svg" alt="How I approach enterprise data" width="100%">
+
+<img src="assets/data-pipeline.svg" alt="Animated flow of data through source systems, profile and cleanse, map and transform, migrate and validate, govern and analyse" width="100%">
+
+A migration is rarely a technical problem first. It is a **trust** problem: does the business believe the data on the other side? That shapes how I work.
+
+1. **Start with the requirement, not the table.** I pin down what the business needs the data to do before touching a field.
+2. **Surface the mess early.** Profiling finds duplicates, gaps and conflicting definitions while they are still cheap to fix.
+3. **Make the mapping explicit.** Every source field has a documented destination and a reason.
+4. **Validate with the people who own the data.** Reconciliation counts only when the business signs off.
+5. **Leave governance behind.** Clean master data should stay clean, and feed the reporting that depends on it.
+
+<img src="assets/sec-work.svg" alt="Selected work" width="100%">
+
+<p align="center">
+  <a href="https://github.com/AdityaSrivastavDS/PoseGuard"><img src="assets/card-poseguard.svg" alt="PoseGuard: real-time driver monitoring with a CNN, alerts, screenshots and an admin portal" width="49%"></a>
+  <a href="https://github.com/AdityaSrivastavDS/AI-Augmented-Design-Feedback-System"><img src="assets/card-design-feedback.svg" alt="AI-Augmented Design Feedback System: predictive models for efficiency, safety and performance of mechanical designs" width="49%"></a>
+  <a href="https://github.com/AdityaSrivastavDS/Cricket-Best-11-Analysis-Dashboard"><img src="assets/card-cricket.svg" alt="Cricket Best-11 Analysis Dashboard" width="49%"></a>
+  <a href="https://github.com/AdityaSrivastavDS?tab=repositories"><img src="assets/card-guides.svg" alt="Complete Guides: Java, Python and Data Science study notes" width="49%"></a>
+</p>
+
+<details>
+<summary><b>PoseGuard in more detail</b></summary>
+
+<br>
+
+PoseGuard is a real-time driver monitoring system. After login, the camera feed starts and a trained CNN watches the driver's posture. When it sees an unwanted pose such as drowsiness or phone use, it plays a warning sound, saves a timestamped screenshot and logs the event. Admins review incidents through a role-based portal and a reports page. The repository's README reports 500+ incidents logged and visualised across test runs.
+
+**Stack:** Python · TensorFlow / Keras · OpenCV · Flask · Tailwind CSS · SQLAlchemy · SQLite · bcrypt
+
+</details>
+
+<details>
+<summary><b>AI-Augmented Design Feedback System in more detail</b></summary>
+
+<br>
+
+A framework that gives AI-powered feedback on mechanical designs. Separate models cover efficiency, safety and performance, trained on generated datasets, with a simulation module and unit tests around them. It runs from a single `run.py` entry point.
+
+**Stack:** Python · scikit-learn · pandas · NumPy · pytest
+
+</details>
+
+<img src="assets/sec-skills.svg" alt="Toolkit" width="100%">
+
+<img src="assets/skills-marquee.svg" alt="Scrolling rows of technologies: enterprise data and languages, analytics and machine learning, web, cloud and databases" width="100%">
+
+<details>
+<summary><b>The same toolkit as a plain list</b></summary>
+
+<br>
+
+| | |
+|---|---|
+| **Enterprise data** | SAP master data management · enterprise data migration · business requirements analysis |
+| **Languages** | Python · SQL · Java · C · C++ · JavaScript · R |
+| **Analytics and BI** | Power BI · Excel · pandas · NumPy · Matplotlib · Seaborn · Plotly |
+| **Machine learning** | scikit-learn · TensorFlow · Keras · PyTorch · OpenCV |
+| **Web** | HTML · CSS · Tailwind CSS · React · Flask |
+| **Cloud and databases** | AWS · Azure · SQL Server · MySQL · PostgreSQL · MongoDB |
+| **Tools** | Git · GitHub · Anaconda |
+
+</details>
+
+**Learning right now:** LangChain and Qdrant.
+
+<img src="assets/sec-activity.svg" alt="Activity" width="100%">
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AdityaSrivastavDS/AdityaSrivastavDS/output/snake.svg" alt="My contribution graph, with a snake eating the contributions" width="100%">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF4D00&center=true&vCenter=true&width=500&lines=Exploring+AI+%7C+Product+%7C+Data;Open+to+exciting+opportunities!" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSrivastavDS&bg_color=10070C&color=E5B5C7&line=C77B9B&point=F8F0F3&area=true&area_color=701A3D&hide_border=true&custom_title=Contribution%20activity" alt="Contribution activity graph" width="100%">
 </p>
 
----
-
-# 👨‍💼 About Me
-
-```yaml
-Name: Aditya Srivastav
-Education: BCA — Data Science & Artificial Intelligence
-By Profession: Solutions Consultant
-By Passion: Lifestyle Vlogger & Content Creator (AdityaLives)
-Focus Areas:
-  - Product Analytics
-  - Business Intelligence
-  - Strategy Consulting
-  - Product Management
-  - Data Analytics
-
-Mission:
-  Transform raw data into business decisions and strategic outcomes.
-```
-
-I enjoy solving business problems through a combination of:
-
-* 📈 Product Thinking
-* 📊 Analytics & BI
-* 🎯 KPI Design
-* 🧠 Decision Science
-* 🚀 AI Driven Automation
-* 💼 Consulting Frameworks
-
-My interest lies where:
-
-> Data informs decisions.
-> Products evolve through insights.
-> Strategy creates competitive advantage.
-
----
-
-# ⚡ Core Competencies
+<img src="assets/sec-connect.svg" alt="Find me" width="100%">
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Product_Analytics-0EA5E9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Business_Intelligence-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Product_Strategy-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Consulting-3B82F6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data_Analytics-0284C7?style=for-the-badge"/>
-
+  <a href="https://aditya-srivastav-portfolio.netlify.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/adityasrivastav1/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://community.aws/@adityads">AWS Community</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Aditya_DSAI/">LeetCode</a> &nbsp;·&nbsp;
+  <a href="https://www.geeksforgeeks.org/user/adityathex00q/">GeeksforGeeks</a> &nbsp;·&nbsp;
+  <a href="https://www.hackerrank.com/profile/aditya_ds">HackerRank</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/Aditya_DSAI">X</a> &nbsp;·&nbsp;
+  <a href="https://www.instagram.com/aditya_srivastav_ds/">Instagram</a>
 </p>
 
----
-
-## 🌐 Connect with Me  
-
-<p align="center">
-  <a href="https://aditya-srivastav-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/adityasrivastav1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/Aditya_DSAI"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://leetcode.com/u/Aditya_DSAI/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
-  <a href="https://www.geeksforgeeks.org/user/adityathex00q/"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=google&logoColor=white"></a>
-  <a href="https://www.hackerrank.com/profile/aditya_ds"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
-  <a href="https://community.aws/@adityads"><img src="https://img.shields.io/badge/AWS%20Blog-F29111?style=for-the-badge&logo=amazonaws&logoColor=white"></a>
-</p>
-
----
-
-### 💻 Tech Stack
-
-#### 🧠 Languages & Frameworks
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white)
-
-#### 🌐 Web & App Development
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-![VueJS](https://img.shields.io/badge/vuejs-%234FC08D.svg?style=plastic&logo=vue.js&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white)
-
-#### 📊 Data Science & Machine Learning
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2F4F4F.svg?style=plastic)
-
-#### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=plastic&logo=microsoft-office&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
-![IBM SPSS](https://img.shields.io/badge/SPSS-005DAA.svg?style=plastic)
-
-#### ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7)
-![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=plastic&logo=github&logoColor=white)
-
-#### 🗃️ Databases
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=plastic&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white)
-![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=plastic&logo=apachehadoop&logoColor=black)
-
-#### 🎨 Design & Productivity
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=plastic&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white)
-
-
-#### 🧩 Other Tools
-![Android](https://img.shields.io/badge/android-%233DDC84.svg?style=plastic&logo=android&logoColor=white)
-
----
-
-### 🌱 Currently Learning  
-
-![LangChain](https://img.shields.io/badge/LangChain-0A0A0A?style=flat&logoColor=white)  
-![Qdrant](https://img.shields.io/badge/Qdrant-FF6F61?style=flat&logo=qdrant&logoColor=white)  
-
----
-
-## 🏆 Achievements  
-
-| Badge | Description |
-|-------|-------------|
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/badge.jpg" width="200"> | **5⭐ in Problem Solving, Java, Python** and **3⭐ in SQL** at HackerRank |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.svg" width="120"> | **Nominated** for *Microsoft MVP Award 2025* |
-| <img src="https://github.com/AdityaSrivastavDS/AdityaSrivastavDS/blob/main/resources/mvp.jpg" width="120"> | Awarded *Microsoft MVP Award 2023* for AI contributions |
-
----
-
-[![An image of @adityathestar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityathestar)](https://holopin.io/@adityathestar)
-
----
-
-# 🏆 GitHub Analytics Dashboard
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdityaSrivastavDS&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdityaSrivastavDS&theme=tokyonight" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdityaSrivastavDS&theme=tokyonight" />
-</p>
-
----
-
-## 📊 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AdityaSrivastavDS&theme=tokyo-night&hide_border=true&radius=16"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</p>
-
----
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:F70000&height=120&section=footer" />
-</p>
-
-<p align="center">✨ Thanks for stopping by! ✨ <br/> Let’s connect and collaborate 🚀</p>
+<img src="assets/aditya-footer.svg" alt="Data informs decisions. Products evolve through insights." width="100%">
